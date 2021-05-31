@@ -1,4 +1,4 @@
-package com.bouncingscout.sfgpetclinic.model.services;
+package com.bouncingscout.sfgpetclinic.services;
 
 import com.bouncingscout.sfgpetclinic.model.Vet;
 
