@@ -1,0 +1,5 @@
+com\bouncingscout\sfgpetclinic\model\Person.class
+com\bouncingscout\sfgpetclinic\model\Owner.class
+com\bouncingscout\sfgpetclinic\model\Vet.class
+com\bouncingscout\sfgpetclinic\model\Pet.class
+com\bouncingscout\sfgpetclinic\model\PetType.class
